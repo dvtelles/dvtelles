@@ -1,7 +1,14 @@
-### Hello github 👋
+## Hello github 👋
 
-My name is Daniel Telles and i'm from Brazil.
 
+### My name is Daniel and i'm from Brazil :brazil:.  
+I've been working as Software Engineer, since 2014 focused on backend.  
+I'm currently working at Avenue Code.  
+Love to learn new stuff and now ReactJS is my goal.  
+I'm also a home brewer and e-sport fan.  
+  
+  
+If you want to contact me:  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dvtelles)](https://www.linkedin.com/in/dvtelles)
 
 
