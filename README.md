@@ -3,7 +3,7 @@
 
 ### My name is Daniel and I'm from Brazil :brazil:.  
 I've been working as Software Engineer, since 2014 focused on backend.  
-I'm currently working at Nubank. 
+I'm currently working at Nubank.  
 I'm currently learning Clojure.
    
 If you want to contact me:  
